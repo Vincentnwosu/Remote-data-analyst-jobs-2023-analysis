@@ -60,11 +60,12 @@ Explores skills that are both high-demand and high-paying
 
 
 
-![alt text](<skills_job_count_barchart - Copy.png>)
+
+![alt text](project.sql/assets/top_skills_for_data_analyst.png)
 
 **Figure 1: Top Skills for a Data Analyst**
 
-This chart shows the top 10 most in-demand skills for Data Analysts overall.
+This chart shows the top 10 most in-demand skills for Data Analysts overall
 
 *Chart generated with ChatGPT.*
 
